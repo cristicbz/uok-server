@@ -1,0 +1,15 @@
+[package]
+name = "uok-server"
+version = "0.1.0"
+authors = ["Cristi Cobzarenco <cristi.cobzarenco@gmail.com>"]
+
+[dependencies]
+env_logger = "0.5.12"
+log = "0.4.4"
+failure = "0.1.2"
+rouille = "2.1.0"
+chrono = "0.4.5"
+rusqlite = "0.14.0"
+structopt = "0.2.10"
+regex = "1.0.2"
+lazy_static = "1.1.0"
